@@ -6,4 +6,4 @@
 
 - :mortar_board: Fissurado pelo mundo das startups, buscou adquirir conhecimento para poder atuar em todas as áreas de uma.
 
-- :rocket: No momento está migrando sua carreira para a área de desenvolvimento front-end e mobile, dedicando todos os seus esforços para se desenvolver nessa área.
+- :rocket: Migrou sua carreira para a área de desenvolvimento front-end e dedica todos os seus esforços para se desenvolver nessa área.
